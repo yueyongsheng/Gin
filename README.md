@@ -346,7 +346,7 @@ golang.org/x/crypto/bcrypt        # 密码加密
 4. Token 过期后需要重新登录获取新 token
 5. GORM 会自动创建所需的表结构（users、posts、comments）
 
-## 作业完成情况
+## 项目内容
 
 ✅ 项目初始化（go mod init）
 ✅ 数据库设计与模型定义（User、Post、Comment）
